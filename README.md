@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Helena @molocohorror</h1>
-<h3 align="center">An application security, pentester and backend developer</h3>
+<h3 align="center">An application security engineer, pentester and backend developer</h3>
 <br>
 
 - 🌱 I’m currently learning **reverse engineering** and **malware development**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **application security, secure code review, backend, devops**
+- 💬 Ask me about **application security, secure code review, backend, linux, devops**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/helena-carreco/**
 <br>
